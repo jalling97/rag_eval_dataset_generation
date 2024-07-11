@@ -18,7 +18,7 @@ python -m pip install -r requirements
 ### Downloading Documents
 Run the following bash script to download the pre-selected documents
 ```bash
-./fetch_documents.sh
+./fetch_documents.sh document_list.txt
 ```
 
 ### Generating Datasets
