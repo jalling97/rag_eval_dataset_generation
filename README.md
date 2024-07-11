@@ -16,6 +16,8 @@ python -m pip install -r requirements
 ## Usage
 
 ### Downloading Documents
+Documents were selected on the basis of having a diverse context and purpose. Among the list includes financial reports, annual reports, guidance documents, technical docs, etc. for multiple sectors including tech, defense, nonprofit, and healthcare.
+
 Run the following bash script to download the pre-selected documents
 ```bash
 ./fetch_documents.sh document_list.txt
